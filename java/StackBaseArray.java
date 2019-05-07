@@ -1,4 +1,4 @@
-package Stack;
+package java;
 
 /**
  * 顺序栈(基于数组实现)
